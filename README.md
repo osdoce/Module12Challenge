@@ -3,7 +3,7 @@ This project showcases my skills in building single-page applications using Reac
 
 ## Deployment
 This portfolio is deployed on Netlify for easy access.
-Deploy URL: meek-cupcake-c01c7a.netlify.app
+### Live Site: [Click here to visit](https://meek-cupcake-c01c7a.netlify.app)
 
 ## Technologies Used
 React
