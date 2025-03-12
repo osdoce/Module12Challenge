@@ -1,5 +1,5 @@
 ## Module 12 Challenge React Portfolio
-This project showcases my skills in building single-page applications using React. As a web developer, having a strong portfolio is essential, and this serves as my professional showcase for potential employers and collaborators.
+This project showcases my porfolio application using React. As a web developer, having a strong portfolio is essential, and this serves as my professional showcase for potential employers and collaborators.
 
 ## Deployment
 This portfolio is deployed on Netlify for easy access.
