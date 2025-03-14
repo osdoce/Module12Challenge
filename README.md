@@ -3,7 +3,7 @@ This project showcases my porfolio application using React. As a web developer, 
 
 ## Deployment
 This portfolio is deployed on Netlify for easy access.
-Live Site: [Click here to visit](https://meek-cupcake-c01c7a.netlify.app)
+
 
 ## Technologies Used
 React
